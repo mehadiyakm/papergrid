@@ -1,0 +1,56 @@
+
+
+.arow{
+  font-size: 20px;
+}
+.color{
+  margin-left: 65px;
+  color: white;
+  margin-bottom: 10px;
+  
+}
+.newdiv{
+  margin-bottom: 0;
+}
+.newdiv2{
+  padding: 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+.tag:hover{
+  text-decoration: underline;
+
+}
+.person{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-info{
+  color:rgb(146,146,146)
+}
+.info:hover{
+  color: white;
+  cursor:pointer;
+}
+.footer-info{
+  display: flex;
+  font-size: small;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-decoration: none;
+  list-style-type: none;
+  gap: 15px;
+}
+.foot-info{
+  color: gray;
+  text-decoration: none;
+}
+.foot-info:hover{
+  color: white;
+  text-decoration: underline;
+}
+.nav-item:hover{
+  text-decoration: underline;
+}
